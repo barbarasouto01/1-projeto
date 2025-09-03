@@ -1,4 +1,12 @@
 body{
-    color:rgb(182, 80, 80);
-    background:bisque;
+    color:rgb(231, 221, 221);
+    background:rgba(51, 41, 28, 0.904);
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px rgba(102, 94, 94, 0.733);
+    padding: 20px;
+    font-size: 35px;
+    color: rgba(102, 94, 94, 0.733);
 }
